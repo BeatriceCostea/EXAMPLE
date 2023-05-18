@@ -1,0 +1,42 @@
+body{
+
+    background-color:hsl(226, 43%, 10%);
+    background-size: cover;
+}
+
+
+
+
+.card{
+
+    font-family:'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin: 100px auto 20px auto ;
+   width:300px;
+   border:1px solid black;
+
+}
+.profile-card{
+
+    background-color:hsl(235, 45%, 61%) ;
+    color:white;
+    background-color: hsl(235, 45%, 61%);
+    text-align: center;
+}
+
+
+.profile-report{
+
+    background-color: hsl(235, 46%, 20%);
+}
+.profile-report-weekly{
+
+    color:white;
+}
+.profile-report-daily{
+    color:hsl(236, 100%, 87%);
+}
+.profile-report-monthly{
+
+    color:hsl(236, 100%, 87%);
+}

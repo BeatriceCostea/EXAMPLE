@@ -1,0 +1,55 @@
+*{
+
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+/* util*/
+.flex_row{
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content:center;
+}
+
+.flex_column{
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content:center;
+
+}
+
+.font_header{
+    font-family:Arial, Helvetica, sans-serif;
+
+    font-weight:700;
+    color:hsi(243,87%,12%);
+
+}
+.font_prf{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:400;
+    color:hsi(243,87%,12%);
+}
+.list_style{
+
+    list-style-type:none;
+    font-family:'Times New Roman', Times, serif;
+    font-weight:400;
+}
+.button_style{
+    font-family:'Times New Roman', Times, serif;
+    font-weight:400;
+    background-color: hs1(224,93%,58%);
+    border:none;
+    border-radius: 5px;
+    color:white;
+
+}
+.justify_between{
+
+    justify-content:space-around;
+    align-items:center;
+}
