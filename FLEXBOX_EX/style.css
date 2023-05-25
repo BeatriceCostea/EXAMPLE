@@ -1,0 +1,31 @@
+.Section6{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top:100px;
+}
+
+.Title{
+
+    
+    color:grey;
+    font-size: 52px;
+     font-weight:5000;
+     line-height: 60px;
+}
+.Paragraf{
+
+    color:grey;
+    font-size: 16px;
+    font-weight: 400; 
+    line-height: 28px;
+ 
+}
+
+.Button_Started{
+
+    background-color: blue;
+    color:white;
+    font-style:700;
+    border-radius:5px;
+}
