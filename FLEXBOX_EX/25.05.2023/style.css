@@ -1,0 +1,23 @@
+*{
+    box-sizing:border-box;
+}
+
+.Grid-container{
+
+    padding:5px;
+    border:2px solid sandybrown; 
+    display:grid;
+   
+}
+.Grid-container-1{
+    grid-template-columns: 100px 100px ;
+    grid-template-rows: 100px 100px;
+}
+.grid-item{
+    border:2px solid royalblue;
+}
+.Grid-container-2{
+    grid-template-columns:1 fr 2fr;
+    height:400px;
+    grid-template-rows:2 fr 1 fr 1fr;
+}
