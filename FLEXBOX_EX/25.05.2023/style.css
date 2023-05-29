@@ -10,8 +10,8 @@
    
 }
 .Grid-container-1{
-    grid-template-columns: 100px 100px ;
-    grid-template-rows: 100px 100px;
+    grid-template-columns: 100px 200 100px ;
+    grid-template-rows: 150px 100px;
 }
 .grid-item{
     border:2px solid royalblue;
